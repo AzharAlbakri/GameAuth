@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameAuth", "GameAuth\GameAuth.csproj", "{83AC7D41-798C-4FB8-9BEC-1BADCF73B9E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameAuth.Service", "GameAuth.Service\GameAuth.Service.csproj", "{46B4D438-83D4-446E-B02B-A5E623B47CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameAuth.Entities", "GameAuth.Entities\GameAuth.Entities.csproj", "{801B28FD-C322-4DB1-8BF2-0A4EDCF4607D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameAuth.Infrastructure", "GameAuth.Infrastructure\GameAuth.Infrastructure.csproj", "{5CCFF7B1-4793-4C89-B349-0E20D6365ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83AC7D41-798C-4FB8-9BEC-1BADCF73B9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AC7D41-798C-4FB8-9BEC-1BADCF73B9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AC7D41-798C-4FB8-9BEC-1BADCF73B9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AC7D41-798C-4FB8-9BEC-1BADCF73B9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B4D438-83D4-446E-B02B-A5E623B47CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B4D438-83D4-446E-B02B-A5E623B47CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B4D438-83D4-446E-B02B-A5E623B47CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B4D438-83D4-446E-B02B-A5E623B47CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801B28FD-C322-4DB1-8BF2-0A4EDCF4607D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801B28FD-C322-4DB1-8BF2-0A4EDCF4607D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801B28FD-C322-4DB1-8BF2-0A4EDCF4607D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801B28FD-C322-4DB1-8BF2-0A4EDCF4607D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CCFF7B1-4793-4C89-B349-0E20D6365ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCFF7B1-4793-4C89-B349-0E20D6365ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCFF7B1-4793-4C89-B349-0E20D6365ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCFF7B1-4793-4C89-B349-0E20D6365ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2640C332-2AE2-4060-A89F-2173D005DF31}
+	EndGlobalSection
+EndGlobal
